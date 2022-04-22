@@ -3,12 +3,13 @@
 
 I currently looking for a new job! **Open for Work**
 
-I'm learning at the moment essencials tecnologies to back-end, front-end and data access for web developement **ReactJS, NodeJS**
+I'm learning at the moment essencials tecnologies to back-end, front-end and data access for web developement (**ReactJS, NodeJS**).
 
 [![Linkedin Badge](https://img.shields.io/badge/-igordasilvafarias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-farias-40b02991/)](https://www.linkedin.com/in/igor-farias-40b02991/)
+[![Gmail Badge](https://img.shields.io/badge/-igordasilvafarias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igordasilvafarias@gmail.com)](mailto:igordasilvafarias@gmail.com)
+
 <!-- [![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natanael.sousaleite)
 [![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
-[![Gmail Badge](https://img.shields.io/badge/-igordasilvafarias@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igordasilvafarias@gmail.com)](mailto:igordasilvafarias@gmail.com)
 
 ## 🚀💻 Technologies & Tools
 
