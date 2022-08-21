@@ -1,8 +1,6 @@
 <h1 align="center">  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Igor Farias</h1>
 <h3 align="center"> Student of the Technology in System Analysis and Development course</h3>
 
-I currently looking for a new job! **Open to Work**
-
 I'm learning at the moment essencials tecnologies to back-end, front-end and data access for web developement (**ReactJS, NodeJS**).
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-farias-40b02991/)](https://www.linkedin.com/in/igor-farias-40b02991/)
