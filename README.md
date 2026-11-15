@@ -1,41 +1,115 @@
-<h1 align="center">  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Igor Farias</h1>
-<h3 align="center"> Student of the Technology in System Analysis and Development course</h3>
 
-I'm learning at the moment essencials tecnologies to back-end, front-end and data access for web developement (**ReactJS, NodeJS**).
+# 👋 Hi, I'm Igor Farias
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-farias-40b02991/)](https://www.linkedin.com/in/igor-farias-40b02991/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igordasilvafarias@gmail.com)](mailto:igordasilvafarias@gmail.com)
+### Full Stack Developer | Software Engineering | AI & Automation
 
-<!-- [![Instagram Badge](https://img.shields.io/badge/-natansl-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/natanael.sousaleite/?hl=pt-br)](https://instagram.com/natanael.sousaleite)
-[![Medium Badge](https://img.shields.io/badge/-@natansl-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@natansl/)](https://medium.com/@natansl) -->
+I'm a Software Developer with **5 years of professional experience** building web applications, backend services, APIs, integrations, and intelligent automation solutions.
 
-## 🚀💻 Technologies & Tools
+I specialize in the JavaScript/TypeScript ecosystem, with a strong focus on backend development, scalable architectures, system integrations, and AI-powered applications.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-<!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket) -->
+I also hold a **Postgraduate Specialization in Software Engineering and Project Management**, combining technical expertise with software design, architecture, and project delivery practices.
 
-## ⚡ GitHub Stats
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=igordasilvafarias&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igordasilvafarias&hide=TeX&layout=compact)
+### 🚀 What I Do
+
+- **Backend Development:** Building scalable APIs and services using Node.js, NestJS, TypeScript, and Java.
+- **Frontend Development:** Developing modern web applications using React, Angular, and Next.js.
+- **Database Engineering:** Working with relational and NoSQL databases, including PostgreSQL and MongoDB.
+- **System Integration:** Connecting platforms, APIs, CRMs, and third-party services.
+- **Artificial Intelligence:** Developing AI-powered chatbots and solutions using OpenAI and Google Gemini.
+- **Automation:** Designing intelligent workflows and business process automations with n8n.
+- **Software Engineering:** Applying SOLID principles, clean code, maintainable architecture, and agile methodologies.
+
+---
+
+### 🛠️ Tech Stack
+
+**Backend Development**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+**Databases & Backend Services**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**AI, Automation & Integrations**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+### 💡 Featured Projects
+
+#### 📦 StockMaster
+
+A personal project focused on inventory and business management, designed to simplify daily operations and business workflows.
+
+**Technologies:**
+- Next.js, React, TypeScript
+- PostgreSQL, Prisma, Supabase
+- PWA architecture
+- Responsive user interfaces
+
+**Focus areas:**
+- Scalable application architecture
+- Inventory and order management
+- Database modeling
+- User experience and business automation
+
+---
+
+### 🎓 Education
+
+- **Postgraduate Specialization in Software Engineering and Project Management**
+- **Bachelor's Degree in Systems Analysis and Development**
+
+---
+
+### 💼 Professional Interests
+
+- Software Architecture & System Design
+- Backend Engineering
+- Cloud Computing & DevOps
+- Artificial Intelligence & LLM Integration
+- Process Automation
+- Scalable Software Solutions
+
+---
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-farias-40b02991/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-igordasilvafarias-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/igordasilvafarias)
+
+---
+
+💻 *Building software, solving problems, and turning ideas into reality.*
